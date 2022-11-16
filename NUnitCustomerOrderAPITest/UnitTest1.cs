@@ -1,4 +1,4 @@
-namespace NUnitTestProject
+namespace NUnitCustomerOrderAPITest
 {
     public class Tests
     {
